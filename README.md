@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm SUBHADIP DAS</h1>
-<h3 align="center">A passionate Machine Learning Engineer  with also experience in building scalable software solutions as well as  cloud platform</h3>
+<h3 align="center">A passionate dev  with  experience in building scalable software solutions </h3>
 
-- I'm recently worked on **Full Stack ML Project**
 
 - 📫 How to reach me **subhadipdas175@gmail.com**
 
