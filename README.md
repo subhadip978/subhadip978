@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm SUBHADIP DAS</h1>
 <h3 align="center">A passionate dev  with  experience in building scalable software solutions </h3>
 
-
+- 🔭 I’m currently working on ...Multifunctional AI System
 - 📫 How to reach me **subhadipdas175@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
