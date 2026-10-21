@@ -15,14 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm SUBHADIP DAS</h1>
-<h3 align="center">A passionate dev  with  experience in building scalable software solutions </h3>
+<h3 align="center">I focus on architecture, performance optimization, and shipping resilient full-stack applications.</h3>
 
+### 🔭 Currently Building
+- 🌐 **Personal Website / Digital Space:** Building a Deployment Engine [Vortex.dev](https://vortex.dev) capable of building and hosting full-stack applications with zero developer configuration.
 
-- 📫 How to reach me **subhadipdas175@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/subhadip-das-fullstackdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhadip-das-fullstackdev" height="30" width="40" /></a>
+  <a href="mailto:subhadipdas175@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="subhadipdas175@gmail.com" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
