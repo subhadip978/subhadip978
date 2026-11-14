@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">I focus on architecture, performance optimization, and shipping resilient full-stack applications.</h3>
 
 ### 🔭 Currently Building
-- 🌐 **Personal Website / Digital Space:** Building a Deployment Engine [Vortex.dev](https://vortex.dev) capable of building and hosting full-stack applications with zero developer configuration.
+- a Deployment Engine [Vortex.dev](https://vortex.dev) capable of building and hosting full-stack applications with zero developer configuration.
 
 
 <h3 align="left">Connect with me:</h3>
